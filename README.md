@@ -3,7 +3,7 @@ This repository contains code that is a solution to the Relative Balance Calcula
 
 ## Getting Started
 
-Checkout the Git Repository on `master`. 
+Checkout the Git Repository on `main`. 
 
 ### Prerequisites
 
